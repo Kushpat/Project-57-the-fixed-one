@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+#favhobby{
+    width: 200px;
+    height: 140px;
+    border: solid;
+    border-radius: 40;
+}
+h1{
+    font-family: sans-serif;
+    color: cornflowerblue;
+}
+p{
+    font-family: sans-serif;
+    color: deepskyblue;
+}
+#start{
+    background: rgb(34,193,195);
+background: rgb(23,23,196);
+background: linear-gradient(90deg, rgba(23,23,196,1) 35%, rgba(0,212,255,1) 100%);
+}
